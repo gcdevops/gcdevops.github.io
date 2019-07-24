@@ -8,7 +8,7 @@ permalink: /home.html
 
 ## About the League
 
-The GC DevOps League is a grassroot movement that has spawn off of a collective desire to change our ways of working, both from a software development and IT operations practitioners' perspective.
+The GC DevOps League is a grass root movement that has spawn off of a collective desire to change our ways of working, both from a software development and IT operations practitioners' perspective.
 
 The league is open to anyone interested in working in the open, sharing their lessons learned and helping each other take over the challenges that we all have to deal with, even though we come from various organisations deemed "different".
  We're much more alike than some might want to let you believe.
@@ -25,7 +25,7 @@ However, we do have a Code of Conduct and we encourage you to read it carefully 
 
 With regards to the "member" status of the GitHub organisation [(more details below)](#github-organisation-and-repositories), they have been created to maintain the documentation and plan events.
 If you are interested in having a more active role, please request to be added to the "members" of the organisation.
-If you do not have the time to review documentation, merge pull requests, organize events, it's **absolutely fine** and you can simply star the repos that interest you, create issues, participate to discussions or submit "Pull Requests" to suggest changes.
+If you do not have the time to review documentation, merge pull requests, organize events, it's **absolutely fine** and you can simply star the repositories that interest you, create issues, participate to discussions or submit "Pull Requests" to suggest changes.
 
 We do not expect everyone to take time off their regular work schedule to do so.
 But we collectively benefit from any contribution made, no matter how small it may seem to you as an individual.
