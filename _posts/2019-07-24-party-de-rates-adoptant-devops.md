@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "J'ai gagné le premier prix pour avoir poussé trop dur DevOps~"
+title:  "J'ai gagnÃ© le premier prix pour avoir poussÃ© trop dur DevOps~"
 lang: fr
 ref: failure-party-adopting-devops
 author: "Vivian Nobrega"
@@ -8,22 +8,22 @@ date: "2019-07-24"
 last_modified: "2019-07-24"
 ---
 
-# "J'ai gagné le premier prix pour avoir poussé trop dur DevOps!~"
+# "J'ai gagnÃ© le premier prix pour avoir poussÃ© trop dur DevOps!~"
 
-![Le trophée du parti d'échec](https://pbs.twimg.com/media/D_wYlm3XkAEt2vo.jpg =250x)
+![Le trophÃ©e du parti d'Ã©chec](https://pbs.twimg.com/media/D_wYlm3XkAEt2vo.jpg =250x)
 
 ## L'histoire:
 
-Je suis un ardent défenseur de l'autonomie et de la vie en général. Bien que Transports Canada (au moment de cet article) ait été formidable d’adopter l’agilité, toutes les transformations sont pénibles.
+Je suis un ardent dÃ©fenseur de l'autonomie et de la vie en gÃ©nÃ©ral. Bien que Transports Canada (au moment de cet article) ait Ã©tÃ© formidable dâ€™adopter lâ€™agilitÃ©, toutes les transformations sont pÃ©nibles.
 
-Venant de mon expérience en automatisation et en relèvement de projets, je suis habitué à parler de peur aux personnes dans leur carrière, mais ce à quoi je n'étais pas habitué, c'est un groupe qui accepterait mes messages d'amélioration des processus et de meilleure qualité de vie. pour le personnel comme une attaque contre leur compétence.
+Venant de mon expÃ©rience en automatisation et en relÃ¨vement de projets, je suis habituÃ© Ã  parler de peur aux personnes dans leur carriÃ¨re, mais ce Ã  quoi je n'Ã©tais pas habituÃ©, c'est un groupe qui accepterait mes messages d'amÃ©lioration des processus et de meilleure qualitÃ© de vie. pour le personnel comme une attaque contre leur compÃ©tence.
 
-Finalement, ma passion pour rendre la vie plus facile s'est terminée avec un groupe qui a refusé de me parler pendant un mois entier.
+Finalement, ma passion pour rendre la vie plus facile s'est terminÃ©e avec un groupe qui a refusÃ© de me parler pendant un mois entier.
 
-## La résolution:
+## La rÃ©solution:
 
-Un autre collègue qui avait travaillé dans le même courant que le groupe est venu et a été en mesure de rouvrir le dialogue. Ils ont fourni une histoire commune montrant que l'adoption de DevOps n'est pas une attaque contre les compétences.
+Un autre collÃ¨gue qui avait travaillÃ© dans le mÃªme courant que le groupe est venu et a Ã©tÃ© en mesure de rouvrir le dialogue. Ils ont fourni une histoire commune montrant que l'adoption de DevOps n'est pas une attaque contre les compÃ©tences.
 
-## La leçon (et la raison du trophée):
+## La leÃ§on (et la raison du trophÃ©e):
 
-Nous ne pouvons pas tout faire nous-mêmes - parfois, une chose aussi simple que la personnalité peut causer une incompatibilité et une mauvaise communication.
+Nous ne pouvons pas tout faire nous-mÃªmes - parfois, une chose aussi simple que la personnalitÃ© peut causer une incompatibilitÃ© et une mauvaise communication.
