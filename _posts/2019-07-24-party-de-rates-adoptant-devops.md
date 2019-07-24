@@ -10,7 +10,7 @@ last_modified: "2019-07-24"
 
 # "I won first prize, for pushing DevOps too hard!~"
 
-![The Failure Party Trophy](https://pbs.twimg.com/media/D_wYlm3XkAEt2vo.jpg)
+![The Failure Party Trophy](https://pbs.twimg.com/media/D_wYlm3XkAEt2vo.jpg =250x)
 
 ## The Story:
 
