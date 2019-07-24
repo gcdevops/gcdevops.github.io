@@ -2,7 +2,7 @@
 layout: post
 title:  "Failure Party - I won first prize, for pushing DevOps too hard!~"
 lang: en
-ref: party-de-rates-adoptant-devops
+ref: failure-party-adopting-devops
 author: "Vivian Nobrega (Twitter : @ShadeWyrm)"
 date: "2019-07-24"
 last_modified: "2019-07-24"
@@ -13,6 +13,8 @@ last_modified: "2019-07-24"
 ![The Failure Party Trophy](https://pbs.twimg.com/media/D_wYlm3XkAEt2vo.jpg)
 
 ## The Story:
+
+(Okay!~ I need to translate this.)
 
 I'm a huge advocate for DevOps, Automation and just improving life for people in general. While Transport Canada (at the time of this post) has been wonderful in it's moves to adopt agility, every transformation has growing pains.
 
