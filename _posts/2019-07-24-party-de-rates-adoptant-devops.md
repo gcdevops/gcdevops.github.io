@@ -1,31 +1,29 @@
 ---
 layout: post
-title:  "Failure Party - I won first prize, for pushing DevOps too hard!~"
+title:  "J'ai gagné le premier prix pour avoir poussé trop dur DevOps~"
 lang: fr
 ref: failure-party-adopting-devops
-author: "Vivian Nobrega (Twitter : @ShadeWyrm)"
+author: "Vivian Nobrega"
 date: "2019-07-24"
 last_modified: "2019-07-24"
 ---
 
-# "I won first prize, for pushing DevOps too hard!~"
+# "J'ai gagné le premier prix pour avoir poussé trop dur DevOps!~"
 
-![The Failure Party Trophy](https://pbs.twimg.com/media/D_wYlm3XkAEt2vo.jpg =250x)
+![Le trophée du parti d'échec](https://pbs.twimg.com/media/D_wYlm3XkAEt2vo.jpg =250x)
 
-## The Story:
+## L'histoire:
 
-(Okay!~ I need to translate this.)
+Je suis un ardent défenseur de l'autonomie et de la vie en général. Bien que Transports Canada (au moment de cet article) ait été formidable d’adopter l’agilité, toutes les transformations sont pénibles.
 
-I'm a huge advocate for DevOps, Automation and just improving life for people in general. While Transport Canada (at the time of this post) has been wonderful in it's moves to adopt agility, every transformation has growing pains.
+Venant de mon expérience en automatisation et en relèvement de projets, je suis habitué à parler de peur aux personnes dans leur carrière, mais ce à quoi je n'étais pas habitué, c'est un groupe qui accepterait mes messages d'amélioration des processus et de meilleure qualité de vie. pour le personnel comme une attaque contre leur compétence.
 
-Coming from a background in automation and Project recovery, I'm used to talking to people about fear in their careers being impacted - but what I wasn't used to is a group who would take my messages of improved processess and better quality of life for staff as an attack against their competency.
+Finalement, ma passion pour rendre la vie plus facile s'est terminée avec un groupe qui a refusé de me parler pendant un mois entier.
 
-In the end, my passion for making life easier ended with a group who refused to speak to me for an entire month.
+## La résolution:
 
-## The Resolution:
+Un autre collègue qui avait travaillé dans le même courant que le groupe est venu et a été en mesure de rouvrir le dialogue. Ils ont fourni une histoire commune montrant que l'adoption de DevOps n'est pas une attaque contre les compétences.
 
-Another coworker who had worked in the same stream as the group came and was able to re-open dialogue. They provided a common story that showed adopting DevOps isn't an attack on competency.
+## La leçon (et la raison du trophée):
 
-## The Lesson (and the reason for the Trophy):
-
-We can't do everything by ourselves - sometimes something as simple as personality can cause incompatibility and miscommunication.
+Nous ne pouvons pas tout faire nous-mêmes - parfois, une chose aussi simple que la personnalité peut causer une incompatibilité et une mauvaise communication.
