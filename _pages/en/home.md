@@ -13,6 +13,10 @@ The GC DevOps League is a grassroot movement that has spawn off of a collective 
 The league is open to anyone interested in working in the open, sharing their lessons learned and helping each other take over the challenges that we all have to deal with, even though we come from various organisations deemed "different".
  We're much more alike than some might want to let you believe.
 
+{% include listPages.md %}
+
+{% include listPosts.md %}
+
 ## Membership
 
 As it is, we do not have a "Membership" process.
@@ -62,9 +66,3 @@ If you're interested in actually looking at the workspace itself, join us on our
 You can create issues, participate in discussions and even contribute!
 
 We've also set up a few CI tests in order to keep our content clean but also to showcase how powerful these open collaboration tools can be to maintain a project, whether it is simple text files or source code.
-
-{% include listPages.md %}
-
-{% include listPosts.md %}
-
-
