@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Failure Party - I won first prize, for pushing DevOps too hard!~"
-lang: en
+lang: fr
 ref: failure-party-adopting-devops
 author: "Vivian Nobrega (Twitter : @ShadeWyrm)"
 date: "2019-07-24"
