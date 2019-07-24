@@ -1,0 +1,34 @@
+{
+  "name": "gcdevops.github.io",
+  "version": "0.0.1",
+  "description": "A repo to maintain our documentation around IT Strategy",
+  "main": "index.js",
+  "scripts": {
+    "link-check": "node link-check.js",
+    "lint": "markdownlint -i node_modules -i _site -i _includes \"**/*.md\"",
+    "spellcheck": "cspell \"_pages/en/*.md\" \"wip-tec/en/*.md\"",
+    "test": "npm run lint && npm run spellcheck && npm run link-check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcdevops/gcdevops.github.io.git"
+  },
+  "keywords": [
+    "strategy",
+    "documentation",
+    "collaboration"
+  ],
+  "author": "Guillaume Charest",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gcdevops/gcdevops.github.io/issues"
+  },
+  "homepage": "https://github.com/gcdevops/gcdevops.github.io#readme",
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "cspell": "^3.2.8",
+    "glob": "^7.1.2",
+    "markdown-link-check": "^3.7.2",
+    "markdownlint-cli": "^0.15.0"
+  }
+}

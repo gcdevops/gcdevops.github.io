@@ -1,0 +1,46 @@
+
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+baseurl: ""
+url: "https://gcdevops.github.io/"
+
+# Build settings
+markdown: kramdown
+include: ["_pages"]
+exclude: ["wip-tec", "CONTRIBUTING.MD", "cspell.json", "LICENSE", "link-check.js", "package.json", "package-lock.json", "README.md"]
+
+# I18n
+description:
+  en: Working in the open! Our work in progress, list of reference material and presentations.
+  fr: Travailler ouvertement! Nos travaux en cours, liste de documents de références et présentations.
+home:
+  en: Home
+  fr: Accueil
+index:
+  en: home.html
+  fr: accueil.html
+language:
+  en: English
+  fr: Français
+subtitle:
+  en: A grassroot movement open to all across the GC in support of adopting a DevOps culture.
+  fr: Un group populaire ouvert à toutes et à tous au GC pour soutenir l'adoption d'une culture DevOps.
+title:
+  en: GC DevOps League
+  fr: Ligue GC DevOps
+viewOnGithub:
+  en: View on GitHub
+  fr: Voir sur GitHub
+writtenBy:
+  en: Written by
+  fr: Écrit par
+lastModified:
+  en: Last modified
+  fr: Dernière modification
+blogPosts:
+  en: Our Blog Posts
+  fr: Nos Billets
