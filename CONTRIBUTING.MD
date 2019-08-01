@@ -15,29 +15,29 @@ Please note that we will get to your comment as soon as possible but we can't co
 
 In this document you will find the following sections:
 
-1. [Instructions](#Instructions)
-2. [Cloning The Project Locally](#Cloning-The-Project-Locally)
-3. [Continuous Integration Testing](#Continuous-Integration-Testing)
-   1. [CI Tests Using Docker](#CI-Tests-Using-Docker)
-   2. [CI Tests Using NPM](#CI-Tests-Using-NPM)
-   3. [Types Of Tests](#Types-Of-Tests)
-4. [Local Website](#Local-Website)
-5. [Jekyll Pages](#Jekyll-Pages)
-   1. [Layout](#Layout)
-   2. [Title](#Title)
-   3. [Ref](#Ref)
-   4. [Lang](#Lang)
-   5. [Status](#Status)
-   6. [Permalink](#Permalink)
-6. [Jekyll Blog Posts](#Jekyll-Blog-Posts)
-   1. [Post Layout](#Post-Layout)
-   2. [Author](#Author)
-   3. [Date](#Date)
-   4. [Last Modified](#Last-Modified)
-7. [Jekyll Draft Blog Posts](#Jekyll-Draft-Blog-Posts)
-8. [Reveal.js Presentations](#Revealjs-Presentations)
-9. [Hacker Slides](#Hacker-Slides)
-10. [Useful Docker Commands](#Useful-Docker-Commands)
+1. [Instructions](#instructions)
+2. [Cloning The Project Locally](#cloning-the-project-locally)
+3. [Continuous Integration Testing](#continuous-integration-testing)
+   1. [CI Tests Using Docker](#ci-tests-using-docker)
+   2. [CI Tests Using NPM](#ci-tests-using-npm)
+   3. [Types Of Tests](#types-of-tests)
+4. [Local Website](#local-website)
+5. [Jekyll Pages](#jekyll-pages)
+   1. [Layout](#layout)
+   2. [Title](#title)
+   3. [Ref](#ref)
+   4. [Lang](#lang)
+   5. [Status](#status)
+   6. [Permalink](#permalink)
+6. [Jekyll Blog Posts](#jekyll-blog-posts)
+   1. [Post Layout](#post-layout)
+   2. [Author](#author)
+   3. [Date](#date)
+   4. [Last Modified](#last-modified)
+7. [Jekyll Draft Blog Posts](#jekyll-draft-blog-posts)
+8. [Reveal.js Presentations](#revealjs-presentations)
+9. [Hacker Slides](#hacker-slides)
+10. [Useful Docker Commands](#useful-docker-commands)
 
 ## Cloning The Project Locally
 
@@ -370,9 +370,17 @@ Notice that we're using the same command as when we run the website locally but 
 
 As part of our desire to work in the open, we are leveraging [Reveal.js](https://revealjs.com/#/), an open source framework project to generate web based presentations.
 
-To take a markdown file and generate a presentation on the website, you can use the following structure:
+To take a markdown file and generate a presentation on the website, you need to put your presentation in the `presentations` folder and the appropriate language subfolder:
 
+![Presentations folders](assets/images/presentations-layout.png)
 
+You can then create a link and use the following URL structure:
+
+```html
+https://gcdevops.github.io/presentation.html?markdown=/<lang>/<filename>.md
+```
+
+Where `lang` is the folder `en` or `fr` and `filename` is the presentation's file name.
 
 ## Hacker Slides
 

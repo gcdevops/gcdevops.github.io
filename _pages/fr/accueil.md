@@ -13,6 +13,10 @@ La Ligue DevOps du GC est un mouvement populaire qui est né d'un désir collect
 La Ligue est ouverte à toute personne intéressée à travailler ouvertement, à partager ses leçons apprises et à s'entraider mutuellement pour relever les défis auxquels nous devons toutes et tous faire face, même si nous sommes issus de diverses organisations considérées "différentes".
 Nous nous ressemblons beaucoup plus que certains voudraient nous faire croire.
 
+{% include listPages.md %}
+
+{% include listPosts.md %}
+
 ## Adhésion
 
 Pour l'instant, nous n'avons pas de processus "d'adhésion".
@@ -62,7 +66,3 @@ Si vous êtes intéressé à regarder l'espace de travail lui-même, rejoignez-n
 Vous pouvez créer des enjeux, participer aux discussions et même contribuer !
 
 Nous avons également mis en place quelques tests d'intégrations continues (CI) afin de garder notre contenu propre, mais aussi de démontrer la puissance de ces outils de collaboration ouverte pour maintenir un projet, qu'il s'agisse de simples fichiers textes ou de code source.
-
-{% include listPages.md %}
-
-{% include listPosts.md %}
