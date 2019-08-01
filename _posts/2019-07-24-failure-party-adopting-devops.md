@@ -4,8 +4,8 @@ title:  "Failure Party - I won first prize, for pushing DevOps too hard!~"
 lang: en
 ref: failure-party-adopting-devops
 author: "Vivian Nobrega"
-date: "2019-07-24"
-last_modified: "2019-07-24"
+date: "2019-07-29"
+last_modified: "2019-07-29"
 ---
 
 ## "I won first prize, for pushing DevOps too hard!~"
