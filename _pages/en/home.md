@@ -34,10 +34,14 @@ But we collectively benefit from any contribution made, no matter how small it m
 
 The GC DevOps League uses various channels of communications.
 
+* [Twitter](#twitter)
 * [GitHub](#github-organisation-and-repositories)
 * GCMessage
 * Slack
-* Twitter
+
+### Twitter
+
+We leverage Twitter to share news about events but also highlight topics of interest. You can find our account [@GCDevOpsLeague1](https://twitter.com/GCDevOpsLeague1)
 
 ### GitHub organisation and Repositories
 
