@@ -8,11 +8,11 @@ date: "2019-07-24"
 last_modified: "2019-07-24"
 ---
 
-# "J’ai remporté le premier prix pour avoir proposé DevOps!~"
+## "J’ai remporté le premier prix pour avoir proposé DevOps!~"
 
 ![Le trophée du parti d'échec](https://pbs.twimg.com/media/D_wYlm3XkAEt2vo.jpg =250x)
 
-## L'histoire:
+### L'histoire:
 
 Je suis une ardente défenseur de DevOps, de l’automatisation et de la croissance personnelle en général. Transports Canada a été formidable dans ses efforts d’adopter une approche Agile, mais pour toute transformation, les difficultés de croissance sont inévitables.
 
